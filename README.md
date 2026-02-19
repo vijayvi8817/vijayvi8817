@@ -116,7 +116,7 @@
 ---
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vijayvi8817/vijayvi8817/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/vijayvi8817/vijayvi8817/output/snake.svg" />
 </p>
 
 ---
