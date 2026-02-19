@@ -113,13 +113,6 @@
 
 ---
 
-## 🧮 Coding Profiles
-- 🔗 LeetCode: https://leetcode.com/u/vijay_vi/  
-- 🔗 GitHub: https://github.com/vijayvi8817  
-- 🔗 LinkedIn: https://www.linkedin.com/in/vijay-vishwakarma23  
-
----
-
 ---
 ## 🐍 Contribution Snake
 <p align="center">
