@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  🚀 Aspiring Software Development Engineer | AI & Backend Enthusiast | CSE Student
+  🚀 Aspiring Software Development Engineer | AI & Backend Enthusiast | Automation Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+SDE+%7C+AI+%26+Backend+Developer;9.45+CGPA+CSE+Student;Automation+Intern+%7C+DSA+Enthusiast;Targeting+10-20+LPA+Placements+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+SDE+%7C+AI+%26+Backend+Developer;9.45+CGPA+CSE+Student;Automation+Intern+%7C+DSA+Enthusiast;+🚀" />
 </p>
 
 ---
@@ -114,10 +114,6 @@
 ---
 
 ---
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vijayvi8817/vijayvi8817/output/snake.svg" />
-</p>
 
 ---
 
