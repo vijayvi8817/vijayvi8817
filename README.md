@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+SDE+%7C+AI+%26+Backend+Developer;9.45+CGPA+CSE+Student;Automation+Intern+%7C+DSA+Enthusiast;+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+SDE+%7C+AI+%26+Backend+Developer;9.45+CGPA+CSE+Student;Automation+Intern+%7C+DSA+Enthusiast🚀" />
 </p>
 
 ---
